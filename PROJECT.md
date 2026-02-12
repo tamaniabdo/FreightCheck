@@ -27,6 +27,7 @@ MVP - Recompute & Flag (story #5)
 - Given an invoice record, when the system runs a basic contract rule (example: base rate × weight + fuel %) it produces `expected_amount`.  
 - If `billed_amount - expected_amount >= $5` or `>= 5%` (whichever is larger), the system creates a flag record with `reason` and `difference`.  
 - The flag appears in the reviewer UI list within 5 seconds of upload.
-New
+
+
 
 
