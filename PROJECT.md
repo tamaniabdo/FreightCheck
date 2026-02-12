@@ -17,6 +17,12 @@ Notes
 - We will mark MVP stories (2 stories) in a following commit `docs(mvp)`.
 - Acceptance criteria and NFRs are recorded separately (`docs(acceptance)` and `docs(nfr)`).
 
+
+## MVP (must-haves)
+- **MVP stories:** #1 and #5 (upload & recompute/flag)
+
+
+
 ## Acceptance criteria (for MVP)
 
 MVP - Upload & Parse (story #1 & #2)
@@ -31,3 +37,5 @@ MVP - Recompute & Flag (story #5)
 
 
 
+
+    
